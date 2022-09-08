@@ -1,0 +1,21 @@
+
+.header{
+        font-size: 100%;
+       background-color: yellow; 
+    }
+
+.total{
+    background-color: blueviolet;
+    height: 10%;
+    margin: auto;
+}
+.rename{
+    background-color: pink;
+    height: 10%;
+    margin: auto;
+}
+.foter{
+    background-color: red;
+    height: 10%;
+    margin: auto;
+}
